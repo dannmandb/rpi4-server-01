@@ -15,7 +15,7 @@
         - docker-compose
         - kubectl
         - kubeadm
-        - kubectl
+        - kubelet
         - net-tools
         - nmap
         - wireshark
