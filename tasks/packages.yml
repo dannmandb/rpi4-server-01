@@ -1,7 +1,6 @@
 ---
   - name: install packages
-    apt: name={{item}}
-    with_items:
+    apt: name=
         - htop
         - tmux
         - vim-nox
