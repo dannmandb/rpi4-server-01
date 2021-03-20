@@ -1,6 +1,6 @@
 ---
   - name: install packages
-    apt: name=
+    apt: name="
         - htop
         - tmux
         - vim-nox
@@ -31,4 +31,4 @@
         - cmus
         - golang
         - python3
-        - python3-pip
+        - python3-pip"
